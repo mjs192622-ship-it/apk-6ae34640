@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "108775827318",
+        "firebase_url": "https://firealarmsystem-6fdc2-default-rtdb.firebaseio.com",
+        "project_id": "firealarmsystem-6fdc2",
+        "storage_bucket": "firealarmsystem-6fdc2.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:108775827318:android:cebd71cc0afb1ddcbd3c57",
+                "android_client_info": {
+                    "package_name": "com.ers.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "108775827318-hd5331sn36ve6lcmr641pit14f51daeo.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAV2j4EA0ZoUt1q-BwfGbDYfBifDRVSe3E"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "108775827318-hd5331sn36ve6lcmr641pit14f51daeo.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "108775827318-t6o9i61ot2nrrtdk2efcn1mjsemflfq8.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.ers.system"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
